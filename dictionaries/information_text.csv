@@ -1,0 +1,17 @@
+filename,id,correct_title,hover_text
+consents (1.5),pagetitle,Resource consent processing ,"A resource consent is a formal approval for such things as the use or subdivision of land, the taking of water, the discharge of contaminants in water, soil or air, or the use of occupation of the coastal marine area.
+
+Note: Information is only reported on resource consents application that were processed through to a decision."
+consents (1.5),RC_type,Type of consent,
+consents (1.5),Notification_Type,Notification type,The notification path the resource consent followed.
+consents (1.5),Council_Type,Council type,
+consents (1.5),Activity_Class,Class of activity,The class of activity as per section 87A of the RMA.
+consents (1.5),Decision,Decision outcome,
+consents (1.5),Decision_maker,Decision-maker,"The person, with appropriate delegated authority, who made the final decision on the application."
+consents (1.5),Application_type,Type of application,
+consents (1.5),time_taken,Number of consents by statutory days elapsed,
+consents (1.5),cost,Number of consents by total charge to applicant,
+consents (1.5),has_objection,Has Objection?,
+consents (1.5),has_discount,Has Discount?,
+consents (1.5),has_appeal,Has Appeal? ,
+consents (1.5),has_cost,Has Cost?,
